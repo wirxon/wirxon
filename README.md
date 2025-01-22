@@ -18,29 +18,91 @@ src="https://img.shields.io/twitter/follow/wirson_ferreira?logo=twitter&style=fo
 /></a><a href="https://www.github.com/wirxon" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/wirxon?logo=github&style=for-the-badge&color=ec4899&labelColor=171717" /></a>
 
-### My Toolbox
+## My Toolbox 📦
 
-<p align="left">
+### Main Languages & Libraries
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com) 
+[![Spring](https://skillicons.dev/icons?i=spring)](https://www.java.com) 
+[![Hibernate](https://skillicons.dev/icons?i=hibernate)](https://hibernate.org)
+[![Maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org/)
+[![Gradle](https://skillicons.dev/icons?i=gradle)](https://gradle.org/)
+[![Selenium](https://skillicons.dev/icons?i=selenium)](https://www.selenium.dev)
+[![csharp](https://skillicons.dev/icons?i=cs)]([https://www.java.com](https://docs.microsoft.com/en-us/dotnet/csharp/)) 
+[![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/)
 
-  
-[![My Skills](https://skillicons.dev/icons?i=java)]([https://skillicons.dev](https://www.oracle.com/java/))
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a></a>
-</p>
+### Infrastructure & DevOps
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io) 
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com) 
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com) 
+[![Google Cloud](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)
+[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://www.jenkins.io) 
+[![Nginx](https://skillicons.dev/icons?i=nginx)](https://www.nginx.com) 
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/) 
+[![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://www.cloudflare.com) 
+
+### Web Development
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org) 
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev) 
+[![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io) 
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org) 
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org) 
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com) 
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com) 
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com) 
+[![Material-UI](https://skillicons.dev/icons?i=materialui)](https://mui.com) 
+[![jQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com) 
+[![D3.js](https://skillicons.dev/icons?i=d3)](https://d3js.org) 
+[![Gulp](https://skillicons.dev/icons?i=gulp)](https://gulpjs.com)
+[![NPM](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com) 
+[![Yarn](https://skillicons.dev/icons?i=yarn)](https://yarnpkg.com) 
+[![WordPress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org)
 
 
-### Socials
+### Databases
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com) 
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org) 
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com) 
+[![Oracle](https://skillicons.dev/icons?i=oracle)](https://www.oracle.com/database) 
+[![SQL Server](https://skillicons.dev/icons?i=mssql)](https://www.microsoft.com/en-us/sql-server) 
+[![Flyway](https://skillicons.dev/icons?i=flyway)](https://flywaydb.org)
 
-<p align="left"> <a href="https://discord.com/users/wirxon#8589" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/wirxon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/wirson_ferreira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/wirxonferreira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/14127369/wirxon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+
+### Monitoring
+[![Grafana](https://skillicons.dev/icons?i=grafana)](https://grafana.com) 
+[![Prometheus](https://skillicons.dev/icons?i=prometheus)](https://prometheus.io) 
+[![New Relic](https://skillicons.dev/icons?i=newrelic)]([https://prometheus.io](https://newrelic.com/es)) 
+
+
+### General Tools
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+[![Bitbucket](https://skillicons.dev/icons?i=bitbucket)](https://bitbucket.org)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com)
+[![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org)
+[![Markdown](https://skillicons.dev/icons?i=md)](https://www.markdownguide.org)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com)
+[![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com)
+[![SVG](https://skillicons.dev/icons?i=svg)](https://developer.mozilla.org/en-US/docs/Web/SVG)
+[![Vim](https://skillicons.dev/icons?i=vim)](https://www.vim.org)
+[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+
+
+
+## My Socials 📣 
+
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/wirxon#8589)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://www.github.com/wirxon)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](http://www.instagram.com/wirson_ferreira)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/wirxonferreira)
+[![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://www.stackoverflow.com/users/14127369/wirxon)
 
 ### Badges
 
